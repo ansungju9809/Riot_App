@@ -1,0 +1,5 @@
+C:\Users\qwert\AppData\Local\Temporary Projects\summoner_information\obj\x86\Release\summoner_information.csprojResolveAssemblyReference.cache
+C:\Users\qwert\AppData\Local\Temporary Projects\summoner_information\obj\x86\Release\summoner_information.Form1.resources
+C:\Users\qwert\AppData\Local\Temporary Projects\summoner_information\obj\x86\Release\summoner_information.Properties.Resources.resources
+C:\Users\qwert\AppData\Local\Temporary Projects\summoner_information\obj\x86\Release\summoner_information.csproj.GenerateResource.Cache
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\bin\Release\summoner_information.exe.config

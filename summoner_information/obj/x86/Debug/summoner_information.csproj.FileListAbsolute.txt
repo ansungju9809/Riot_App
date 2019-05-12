@@ -1,0 +1,8 @@
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\bin\Debug\summoner_information.exe.config
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\bin\Debug\summoner_information.exe
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\bin\Debug\summoner_information.pdb
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\obj\x86\Debug\summoner_information.Form1.resources
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\obj\x86\Debug\summoner_information.Properties.Resources.resources
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\obj\x86\Debug\summoner_information.csproj.GenerateResource.Cache
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\obj\x86\Debug\summoner_information.exe
+C:\Users\qwert\onedrive\문서\visual studio 2010\Projects\summoner_information\summoner_information\obj\x86\Debug\summoner_information.pdb
